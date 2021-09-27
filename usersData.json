@@ -1,7 +1,7 @@
 [
     { "id": 1, "date": "28.03.2020", "category": "Food", "value": 169 },
     { "id": 2, "date": "24.03.2020", "category": "Transport", "value": 350 },
-    { "id": 3, "dat": "24.03.2020", "category": "Food", "value": 532 },
+    { "id": 3, "date": "24.03.2020", "category": "Food", "value": 532 },
     { "id": 4, "date": "21.03.2020", "category": "Housing", "value": 273 },
     { "id": 5, "date": "21.03.2020", "category": "Healthcare", "value": 545 },
     { "id": 6, "date": "16.03.2020", "category": "Housing", "value": 502 },
