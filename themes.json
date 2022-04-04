@@ -1,0 +1,25 @@
+{
+    "themes":[
+        { "name":"food", "translateName": "еда" },
+        { "name": "house", "translateName": "дом" },
+        { "name": "animals", "translateName": "животные" },
+        { "name": "airport", "translateName": "аэропорт" },
+        { "name": "art", "translateName": "искусство" },
+        { "name": "astronomy", "translateName": "астрономия" },
+        { "name": "body", "translateName": "тело" },
+        { "name": "clothes", "translateName": "одежда" },
+        { "name": "colors", "translateName": "цвета" },
+        { "name": "cosmetic", "translateName": "косметика" },
+        { "name": "feeling", "translateName": "чувства" },
+        { "name": "fruits", "translateName": "фрукты" },
+        { "name": "furniture", "translateName": "мебель" },
+        { "name": "insects", "translateName": "насекомые" },
+        { "name": "nature", "translateName": "природа" },
+        { "name": "profession", "translateName": "профессия" },
+        { "name": "school", "translateName": "школа" },
+        { "name": "size", "translateName": "размер" },
+        { "name": "space", "translateName": "космос" },
+        { "name": "transport", "translateName": "транспорт" },
+        { "name": "weather", "translateName": "погода" }
+    ]
+}
