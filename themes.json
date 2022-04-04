@@ -5,7 +5,7 @@
         { "name": "animals", "translateName": "животные" },
         { "name": "airport", "translateName": "аэропорт" },
         { "name": "art", "translateName": "искусство" },
-        { "name": "astronomy", "translateName": "астрономия" },
+        { "name": "time", "translateName": "время" },
         { "name": "body", "translateName": "тело" },
         { "name": "clothes", "translateName": "одежда" },
         { "name": "colors", "translateName": "цвета" },
