@@ -4,6 +4,7 @@
         { "name": "house", "translateName": "дом" },
         { "name": "animals", "translateName": "животные" },
         { "name": "airport", "translateName": "аэропорт" },
+        { "name": "astronomy", "translateName": "астрономия" },
         { "name": "art", "translateName": "искусство" },
         { "name": "time", "translateName": "время" },
         { "name": "body", "translateName": "тело" },
